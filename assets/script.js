@@ -34,8 +34,7 @@ function showSlides(n) {
 }
 
 // Défilement automatique toutes les 5 secondes
-setInterval(function() {
-  plusSlides(1);
+
 }, 5000);
 
 
