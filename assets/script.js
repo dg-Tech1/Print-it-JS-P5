@@ -35,7 +35,7 @@ function showSlides(n) {
 
 // Défilement automatique toutes les 5 secondes
 
-}, 5000);
+
 
 
 
